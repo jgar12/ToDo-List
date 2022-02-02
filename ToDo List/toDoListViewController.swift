@@ -16,7 +16,6 @@ class toDoListViewController: UIViewController {
         super.viewDidLoad()
         tableView.dataSource = self
         tableView.delegate = self
-        // Do any additional setup after loading the view.
     }
 
 
